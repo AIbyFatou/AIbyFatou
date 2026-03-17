@@ -6,8 +6,8 @@
 
 *"The build is easy. Reliability is rare."*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/fatou-cisse)
-[![Malt](https://img.shields.io/badge/Malt-FF6B6B?style=for-the-badge&logo=malt&logoColor=white)](https://www.malt.fr)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fatou-cisse-developpement-web-fullstack?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+[![Malt](https://img.shields.io/badge/Malt-FF6B6B?style=for-the-badge&logo=malt&logoColor=white)](https://www.malt.fr/profile/fatoucisse)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@aibyfatou.com)
 
 </div>
