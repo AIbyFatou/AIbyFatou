@@ -73,7 +73,7 @@ const Fatou = {
 
 ---
 
-### 🔜 Coming Soon
+### 🔜 Planned Enhancements for Production Readiness
 
 | Project | Description | Stack |
 |---------|-------------|-------|
