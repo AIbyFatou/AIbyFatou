@@ -75,17 +75,24 @@ const Fatou = {
 | **RLS Test Suite** | Automated tests to validate Supabase Row Level Security policies | TypeScript · Vitest · Supabase |
 
 ---
+## 📊 What I'm building
 
-## 📊 GitHub Stats
+| | |
+|---|---|
+| 🧪 Tests written | 10+ |
+| ✅ CI/CD pipelines | 2 |
+| 🐛 Bugs caught by E2E | 1 (and counting) |
+| 📦 Open source projects | 2 |
 
-<div align="center">
-
-![Fatou's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AIbyFatou&show_icons=true&theme=radical&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AIbyFatou&layout=compact&theme=radical&hide_border=true)
-
-</div>
 
 ---
 
-## 💼 Experience Highlights
+<div align="center">
+
+**Open to QA Engineer & AI Reliability roles — CDI or Freelance**  
+📍 Paris, France · Remote friendly  
+📧 contact@aibyfatou.com
+
+*Available immediately* ✅
+
+</div>
