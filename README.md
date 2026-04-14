@@ -2,7 +2,7 @@
 
 # Hi, I'm Fatou 👋🏿
 
-### QA Engineer · AI Reliability · TypeScript · Cypress · Vitest
+### QA Engineer · AI Reliability · TypeScript · Playwright · Vitest
 
 *"The build is easy. Reliability is rare."*
 
@@ -26,7 +26,7 @@ const Fatou = {
   role:        "QA Engineer & AI Reliability Engineer",
   location:    "Paris, France 🇫🇷",
   languages:   ["TypeScript", "JavaScript", "Python"],
-  testing:     ["Vitest", "Testing Library", "Cypress"],
+  testing:     ["Vitest", "Testing Library", "Cypress", "Playwright"],
   currentFocus: "Building a professional QA portfolio",
   available:   true,
 }
@@ -38,6 +38,7 @@ const Fatou = {
 
 **Testing**  
 ![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
 ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat-square&logo=cypress&logoColor=white)
 ![Testing Library](https://img.shields.io/badge/Testing_Library-E33332?style=flat-square&logo=testing-library&logoColor=white)
 
@@ -59,17 +60,9 @@ const Fatou = {
 
 | Project | Description | Stack | Repo |
 |---------|-------------|-------|------|
-| **E-Commerce QA Testing Suite** | Unit & integration tests on a React e-commerce app. Vitest + Testing Library + CI/CD | React · TypeScript · Vitest | [→](https://github.com/AIbyFatou/ecommerce-qa-testing-suite) |
+| **E-Commerce QA Testing Suite** | Full testing pyramid: unit, integration & E2E. Vitest + RTL + Playwright + CI/CD. Bug detected by E2E tests. | React · TypeScript · Vitest · Playwright | [→](https://github.com/AIbyFatou/ecommerce-qa-testing-suite) |
 | **AI Screening System** | Automated CV screening — 500 CVs in 30 min (93% productivity gain) | n8n · Mistral OCR · GPT-4 Mini · Airtable | Private |
 | **B2B SaaS Timesheet** | Multi-tenant staffing platform with automated approval workflows | React · Supabase · n8n · RLS | Private |
-
----
-
-### 🔄 In Progress
-
-| Project | Description | Stack |
-|---------|-------------|-------|
-| **E-Commerce QA Suite** | Adding reducer tests, CartCount, ProductItem, GitHub Actions CI/CD | Vitest · GitHub Actions |
 
 ---
 
@@ -96,41 +89,3 @@ const Fatou = {
 ---
 
 ## 💼 Experience Highlights
-
-```
-✅ QA Engineer @ Believe (2023-2024)
-   Cypress E2E · Agile/Scrum · CI/CD · Gherkin · Xray
-
-✅ AI Reliability Engineer @ Freelance (2025-present)
-   n8n · Supabase RLS · Zod validation · TypeScript
-
-✅ Quality & Compliance @ Pro BTP + Europ Assistance (4 years)
-   Complex case management · International coordination
-```
-
----
-
-<div align="center">
-
-**Open to QA Engineer & AI Reliability roles — CDI or Freelance**  
-📍 Paris, France · Remote friendly  
-📧 contact@aibyfatou.com
-
-*Available immediately* ✅
-
-</div>## Hi there 👋
-
-<!--
-**AIbyFatou/AIbyFatou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
