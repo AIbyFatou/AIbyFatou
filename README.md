@@ -63,6 +63,7 @@ const Fatou = {
 | **E-Commerce QA Testing Suite** | Full testing pyramid: unit, integration & E2E. Vitest + RTL + Playwright + CI/CD. Bug detected by E2E tests. | React · TypeScript · Vitest · Playwright | [→](https://github.com/AIbyFatou/ecommerce-qa-testing-suite) |
 | **AI Screening System** | Automated CV screening — 500 CVs in 30 min (93% productivity gain) | n8n · Mistral OCR · GPT-4 Mini · Airtable | Private |
 | **B2B SaaS Timesheet** | Multi-tenant staffing platform with automated approval workflows | React · Supabase · n8n · RLS | Private |
+| **AI Audit CLI** | Open source CLI that automatically audits GitHub repos for Supabase security issues. 4 checks + score /100 | Node.js · TypeScript · GitHub API | [→](https://github.com/AIbyFatou/ai-audit-cli) |
 
 ---
 
@@ -70,9 +71,11 @@ const Fatou = {
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| **Supabase AI Audit Tool** | Open-source checklist to audit any Supabase app — RLS, auth, secrets. Score /100 + PDF report | React · TypeScript · Supabase |
-| **n8n Reliability Dashboard** | Monitoring dashboard for n8n workflows — success rate, error tracking, alerts | React · Supabase · n8n |
-| **RLS Test Suite** | Automated tests to validate Supabase Row Level Security policies | TypeScript · Vitest · Supabase |
+| **n8n Reliability Dashboard** | Phase 2 | Monitoring dashboard for n8n workflows — success rate, error tracking, alerts | React · Supabase · n8n · Zod |
+| **Document Validation Engine** | Phase 2 | AI-powered document validation with TypeScript + Zod — detects missing data and inconsistencies | TypeScript · Zod · OpenAI |
+| **RLS Test Suite** | Phase 3 | Automated tests to validate Supabase Row Level Security policies — npm package | TypeScript · Vitest · Supabase |
+| **Vibe Coding QA Guard** | Phase 3 | QA tool dedicated to vibe coders (Lovable, Bolt, Cursor) — auto smoke tests + quality score /100 | n8n · Playwright · Vercel |
+| **AI Reliability Playbook** | Phase 3 | Public expert documentation — RLS checklists, architecture patterns, anti-patterns | Gitbook · Notion |
 
 ---
 ## 📊 What I'm building
@@ -82,7 +85,7 @@ const Fatou = {
 | 🧪 Tests written | 10+ |
 | ✅ CI/CD pipelines | 2 |
 | 🐛 Bugs caught by E2E | 1 (and counting) |
-| 📦 Open source projects | 2 |
+| 📦 Open source projects | 3 |
 
 
 ---
